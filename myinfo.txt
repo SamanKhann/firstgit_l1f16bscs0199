@@ -1,2 +1,3 @@
-"name:Saman Khan Khan"
+<<<<<<< HEAD
+"name:Saman Shahzad Khan"
 Email: samankhan0199@gmail.com
